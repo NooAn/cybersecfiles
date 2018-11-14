@@ -1,4 +1,2 @@
-<?php
-$handle = fopen("index.php", "w");
-echo $handle;
-?>
+    <?phpprint_R(scandir('.'));print(base64_encode(file_get_contents('index.php')));?>
+
