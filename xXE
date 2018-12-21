@@ -1,16 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>b
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
 <channel>
-    <title>XXE Test Blog</title>
-    <link>http://example.com/</link>
-    <description>XXE Test Blog</description>
-    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 -0000</lastBuildDate>
-    <item>
-        <title>&xxe;</title>
-        <link>http://example.com</link>
-        <description>Test Post</description>
-        <author>author@example.com</author>
-        <pubDate>Mon, 02 Feb 2015 00:00:00 -0000</pubDate>
-    </item>
+<title>&quot;Элементы&quot;: новости физики</title>
+<link>http://elementy.ru/</link>
+<description></description>
+<lastBuildDate>22 Dec 2018 01:35:15 +0300</lastBuildDate>
+<image>
+<title>&quot;Элементы&quot;: новости физики</title>
+<url>http://elementy.ru/images/eltdesign/title.gif</url>
+<link>http://elementy.ru/</link>
+</image>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/cms_search_for_sm_higgs_between_70_110_gev_logo_100.jpg"/>
+		<category>Хиггсовский бозон</category>
+		<description>&lt;p&gt;Коллаборация CMS завершила длившийся более года поиск новых бозонов Хиггса, распадающихся на два фотона. Её статья подтверждает предварительные данные прошлого года. В частности, при энергии около 95 ГэВ по-прежнему заметно отклонение от Стандартной модели. Любопытно, что именно в этой области еще 15 лет назад коллайдер LEP тоже увидел слабый намек на отклонение.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433393/CMS_vidit_nebolshoe_otklonenie_ot_Standartnoy_modeli_v_dvukhfotonnom_kanale_pri_95_GeV</link>
+		<pubDate>19 Dec 2018 07:34:00 +0300</pubDate>
+		<title>CMS видит небольшое отклонение от Стандартной модели в двухфотонном канале при 95 ГэВ</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/nobel_prize_2018_physics_mirror_200.jpg"/>
+		<category>Нобелевские премии</category>
+		<description>&lt;p&gt;Половина Нобелевской премии по физике этого года была присуждена Жерару Муру и Донне Стрикленд за метод генерации высокоинтенсивных ультракоротких оптических импульсов. Благодаря их результатам удалось серьезно увеличить пиковую мощность лазерных установок, что позволяет, например, вести разработку относительно компактных ускорителей заряженных частиц, не уступающих традиционным.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433345/V_pogone_za_petavattami</link>
+		<pubDate>10 Oct 2018 08:09:00 +0300</pubDate>
+		<title>В погоне за петаваттами</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/nobel_medal_physics_100.jpg"/>
+		<category>Нобелевские премии</category>
+		<description>&lt;p&gt;2 октября Шведская Королевская Академия наук присудила Нобелевскую премию по физике  американцу Артуру Эшкину, французу Жерару Муру и канадке Донне Стрикленд &lt;i&gt;«за революционные изобретения в области лазерной физики»&lt;/i&gt;. Эшкин отмечен за изобретение оптических пинцетов и применение их для изучения биологических систем. Муру и Стрикленд получили премию за разработку метода генерирования сверхкоротких оптических импульсов чрезвычайно высокой интенсивности.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433343/Nobelevskaya_premiya_po_fizike_2018</link>
+		<pubDate>09 Oct 2018 23:00:00 +0300</pubDate>
+		<title>Нобелевская премия по физике — 2018</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/acceleration_of_electrons_in_the_plasma_wakefield_awake_logo_100.jpg"/>
+		<category>Физика</category>
+		<description>&lt;p&gt;Идея кильватерного ускорения электронов сверхсильным электрическом полем внутри плазменного пузырька сулит революцию в ускорительной физике. Совсем недавно физикам, работающим на установке AWAKE в ЦЕРНе, удалось сделать большой шаг на пути к претворению этой идеи в реальность: в рекордной по размерам плазменной ячейке было продемонстрировано стабильное, воспроизводимое от раза к разу ускорение электронов, причем — с использованием длинных протонных сгустков, изначально для этой цели не предназначенных.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433325/V_eksperimente_AWAKE_ispytana_novaya_skhema_uskoreniya_elektronov</link>
+		<pubDate>05 Sep 2018 06:35:00 +0300</pubDate>
+		<title>В эксперименте AWAKE испытана новая схема ускорения электронов</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/european_particle_physics_update_2020_logo_100.jpg"/>
+		<category>Физика</category>
+		<description>&lt;p&gt;Коллайдерная физика элементарных частиц на перепутье. Большой адронный коллайдер будет работать до 2037 года, но никто не может гарантировать, что он откроет долгожданную Новую физику. Уже давно обсуждаются разные проекты следующего крупного коллайдера, способного превзойти LHC по энергии или по прозорливости, но какой из них предпочесть — заранее не ясно.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433312/Kuda_dvigatsya_kollaydernoy_fizike_v_sleduyushchem_desyatiletii</link>
+		<pubDate>20 Aug 2018 14:31:00 +0300</pubDate>
+		<title>Куда двигаться коллайдерной физике в следующем десятилетии?</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/lhc/lhc_medium_cms_2018_muons_in_b_quark_jets_logo_100.jpg"/>
+		<category>LHC</category>
+		<description>&lt;p&gt;Выполняя рутинный поиск эффектов Новой физики в канале рождения мюонных пар и b-струй, коллаборация CMS обнаружила в данных Run 1 неожиданно сильное отклонение от фона при инвариантной массе мюонной пары 28 ГэВ. Это могло бы стать громким открытием, если бы сеанс Run 2 подтвердил отклонение, но в данных 2016 года подобного отклонения не видно. Коллаборация CMS пока воздерживается от вынесения вердикта.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433307/Zagadochnoe_otklonenie_obnaruzhennoe_CMS_v_statistike_Run_1_ne_podtverdilos_v_dannykh_2016_goda</link>
+		<pubDate>08 Aug 2018 05:57:00 +0300</pubDate>
+		<title>Загадочное отклонение, обнаруженное CMS в статистике Run 1, не подтвердилось в данных 2016 года</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/neutrino_2018_nova_unexpected_results_logo_100.jpg"/>
+		<category>Физика</category>
+		<description>&lt;p&gt;В начале июня в Гейдельберге прошла крупнейшая конференция в области нейтринной физики. На ней были представлены важные результаты многих нейтринных экспериментов. Одним из главных событий стал доклад коллаборации, работающей на установке NOvA. Их измерения фундаментальных параметров нейтринных осцилляций не очень согласуются с результатами других экспериментов.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433299/Eksperiment_NOvA_poluchil_pervye_i_neozhidannye_rezultaty_s_puchkom_antineytrino</link>
+		<pubDate>30 Jul 2018 23:24:00 +0300</pubDate>
+		<title>Эксперимент NOvA получил первые — и неожиданные — результаты с пучком антинейтрино</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg"/>
+		<category>История науки</category>
+		<description>&lt;p&gt;Ровно сто лет назад был представлен доклад о теореме, которая со временем стала важнейшим инструментом в математической и теоретической физике. Она связывает каждую непрерывную симметрию физической системы с некоторым законом сохранения. Доказала эту теорему Эмми Нётер — и этот результат, наряду с ее работами по абстрактной алгебре, заслуженно позволяет многим считать Нётер величайшей женщиной в истории математики.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433257/Velikoy_teoreme_Emmi_Nyoter_100_let</link>
+		<pubDate>23 Jul 2018 05:58:00 +0300</pubDate>
+		<title>Великой теореме Эмми Нётер — 100 лет</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/news/ichep_2018_topspin_fig2_100.jpg"/>
+		<category>LHC</category>
+		<description>&lt;p&gt;Большой адронный коллайдер, похоже, наткнулся еще на одну аномалию. Коллаборация ATLAS, изучив процесс рождения топ-кварка и антикварка и измерив корреляцию между их спинами, получила странный результат: если опираться на расчеты Стандартной модели, то эта корреляция получается больше ста процентов, чего не может быть. Если отклонение подтвердится в будущем и его не удастся списать ни на один источник теоретических или экспериментальных погрешностей, оно будет свидетельствовать о том, что в процесс рождения и распада топ-кварков вмешиваются новые частицы.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433289/ICHEP_2018_spinovye_korrelyatsii_pri_rozhdenii_top_kvarkov_sushchestvenno_raskhodyatsya_s_teoriey</link>
+		<pubDate>09 Jul 2018 04:40:00 +0300</pubDate>
+		<title>ICHEP 2018: спиновые корреляции при рождении топ-кварков существенно расходятся с теорией</title>
+	</item>
+	<item>
+		<enclosure type="image/jpeg" url="http://elementy.ru/images/lhc/atlas-tth-2018_100.jpg"/>
+		<category>LHC</category>
+		<description>&lt;p&gt;После нескольких лет поисков коллаборации ATLAS и CMS наконец сообщили о надежном открытии процесса рождения хиггсовского бозона в сопровождении топ-кварк-антикварковой пары. Интенсивность рождения в пределах погрешности согласуется с предсказаниями Стандартной модели. Несколько лет назад вокруг этого процесса царил ажиотаж, однако к настоящему моменту все страсти улеглись, и теоретики встретили сообщения CMS и ATLAS очень прохладно.&lt;/p&gt;</description>
+		<link>http://elementy.ru/novosti_nauki/433267/Protsess_rozhdeniya_ttH_okonchatelno_otkryt_no_uzhe_ne_vyzyvaet_entuziazma_teoretikov</link>
+		<pubDate>07 Jun 2018 05:16:00 +0300</pubDate>
+		<title>Процесс рождения ttH окончательно открыт, но уже не вызывает энтузиазма теоретиков</title>
+	</item>
+
 </channel>
 </rss>
